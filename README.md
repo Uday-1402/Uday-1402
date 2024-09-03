@@ -15,14 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+- 🔭 I’m currently working on Next.js and MERN Stack
+- 🌱 I’m currently learning React Native
+- 📫 How to reach me: udayt1402@gmail.com
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-### Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Uday-1402)](https://github.com/Uday-1402/github-readme-stats)
-
 <br></br>
 
 ### Stats
+<hr></hr>
 ![Uday's GitHub stats](https://github-readme-stats.vercel.app/api?username=Uday-1402&show_icons=true&theme=radical)
