@@ -27,3 +27,6 @@ Here are some ideas to get you started:
 
 ### Stats
 ![Uday's GitHub stats](https://github-readme-stats.vercel.app/api?username=Uday-1402&show_icons=true&theme=radical)
+
+### Skills
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,js,html,css,aws,bootstrap,docker,express,,firebase,git,github,gitlab,kubernetes,linux,mongodb,mysql,nextjs,nodejs,postgres,postman,prisma,react,redux,tailwind,ts,vscode,)](https://skillicons.dev)
