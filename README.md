@@ -26,5 +26,4 @@ Here are some ideas to get you started:
 <br></br>
 
 ### Stats
-<hr></hr>
 ![Uday's GitHub stats](https://github-readme-stats.vercel.app/api?username=Uday-1402&show_icons=true&theme=radical)
